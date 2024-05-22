@@ -1,0 +1,10 @@
+---
+title: "CV"
+author: "Krzysztof Nowak"
+format: html
+editor: visual
+---
+
+# About me
+
+My name is Krzysztof Nowak
