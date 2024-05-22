@@ -1,12 +1,31 @@
 ---
-title: "CV"
-author: "Krzysztof Nowak"
+title: "About"
 format: html
 editor: visual
 ---
 
-# About me
+![](LD.jpg){fig-align="left" width="150"}
 
-My name is Krzysztof Nowak.
+My name is Krzysztof Nowak. Currently I work in TMF Group as Senior Automation analyst
 
 I am interested in improving the quality of work with data, development of analytical tools and automation.
+
+## Education
+
+**AKADEMIA WSB** 2016 - 2019 Bachelor's degree, economics
+
+## Work Experience
+
+**TMF GROUP, Senior Automation Analyst**
+
+January 2022--currently
+
+Responsibilities:
+
+-   Building automation solutions using the Alteryx platform - Evaluation of automation proposals
+
+-   Mentoring of novice developers
+
+-   Contact with internal and external customers
+
+Technologies: Alteryx, Power BI, MS Excel, SQL
