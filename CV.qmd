@@ -7,4 +7,6 @@ editor: visual
 
 # About me
 
-My name is Krzysztof Nowak
+My name is Krzysztof Nowak.
+
+I am interested in improving the quality of work with data, development of analytical tools and automation.
