@@ -1,14 +1,21 @@
 ---
 title: "About"
-format: html
+mail: knowak1990@outlook.com
+description: "My name is Krzysztof Nowak. Currently I work in TMF Group as Senior Automation analyst. I am interested in improving the quality of work with data, development of analytical tools and automation. I am happy to be part of Enterprise DNA experts team"
+format:
+  html:
+    toc: true
+    toc-location: left
+    title-block-banner: "lightgray"
+theme: minimal
+title-block-banner-color: "black"
+fontcolor: black
+backgroundcolor: white
+number-sections: false
 editor: visual
 ---
 
 ![](LD.jpg){fig-align="left" width="150"}
-
-My name is Krzysztof Nowak. Currently I work in TMF Group as Senior Automation analyst
-
-I am interested in improving the quality of work with data, development of analytical tools and automation.
 
 ## Education
 
@@ -28,4 +35,49 @@ Responsibilities:
 
 -   Contact with internal and external customers
 
-Technologies: Alteryx, Power BI, MS Excel, SQL
+**Tools:** Alteryx, Power BI, MS Excel, SQL
+
+------------------------------------------------------------------------
+
+## Tech skills
+
+Alteryx\
+Power BI\
+R\
+SQL\
+Power Automate
+
+------------------------------------------------------------------------
+
+## Soft skills
+
+Problem solving\
+Self-reliance\
+Training for beginners\
+A focus on community developmen
+
+				
+
+			
+
+		
+
+	
+
+------------------------------------------------------------------------
+
+## Contact details
+
+[Linkedin profile](inkedin.com/in/krzysztofnowakdata)
+
+[My Github profile](github.com/KrzysztofNowakJaw)
+
+[Bio on Enterprise DNA experts site](enterprisedna.co/experts)
+
+				
+
+			
+
+		
+
+	
