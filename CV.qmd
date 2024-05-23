@@ -6,12 +6,14 @@ format:
   html:
     toc: true
     toc-location: left
+collapse: true
 theme: lux
 title-block-banner: true
 title-block-banner-color: "white"
 fontcolor: black
 backgroundcolor: white
 number-sections: false
+section-divs: true
 editor: visual
 ---
 
@@ -100,7 +102,7 @@ Credential\
 
 ## Contact details
 
-knowak1990\@outlook.com 
+knowak1990\@outlook.com
 
 +48 728 627440
 
