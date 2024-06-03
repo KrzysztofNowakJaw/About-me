@@ -1,0 +1,103 @@
+---
+title: "About"
+mail: "knowak1990@outlook.com"
+description: "My name is Krzysztof Nowak. Currently I work in TMF Group as Senior Automation analyst. I am interested in improving the quality of work with data, development of analytical tools and automation. I am happy to be part of Enterprise DNA experts team"
+format:
+  html:
+    toc: true
+    toc-location: left
+collapse: true
+theme: lux
+title-block-banner: true
+title-block-banner-color: "white"
+fontcolor: black
+backgroundcolor: white
+number-sections: false
+section-divs: true
+editor: visual
+---
+
+![](LD.jpg){fig-align="left" width="150"}
+
+## Education
+
+**AKADEMIA WSB**
+
+2016 - 2019 Bachelor's degree, economics
+
+## Work Experience
+
+**TMF GROUP, Senior Automation Analyst**
+
+January 2022--currently
+
+-   Building automation solutions using the Alteryx platform - Evaluation of automation proposals
+
+-   Mentoring of novice developers
+
+-   Contact with internal and external customers
+
+**Tools:** Alteryx, Power BI, MS Excel, SQL,Power Automate
+
+------------------------------------------------------------------------
+
+**Enterprise DNA, R language workout leader**
+
+May 2023-June 2023
+
+-   Conducting weekly workshops on R language and regular expressions - Popularizing programming techniques in the data analytics community
+
+**Tools:** R language
+
+------------------------------------------------------------------------
+
+**UBS, Reporting specialist** November 2020-- December 2021
+
+-   Verification of transaction reports for compliance with regulations
+
+-   Process automation with Alteryx Platform
+
+**Tools:** Alteryx, MS Excel
+
+------------------------------------------------------------------------
+
+**State Street, Investor Services Reporting Associate**
+
+April 2019-- October 2020
+
+Creating KPIs for investment funds\
+Responding to queries from investment funds using data obtained with SQL language
+
+Tools: SQL,VBA,MS Excel,MS Access
+
+------------------------------------------------------------------------
+
+## **Tech skills**
+
+Alteryx\
+Power BI\
+R\
+SQL\
+Power Automate
+
+------------------------------------------------------------------------
+
+## Soft skills
+
+Problem solving\
+Self-reliance\
+Training for beginners\
+A focus on community development
+
+------------------------------------------------------------------------
+
+## Certification
+
+**Alteryx:** Core, Machine Learning Foundation, Foundational Micro- Credential\
+**Others:** Certified SAFe® 5 Agilist
+
+------------------------------------------------------------------------
+
+## Contact details
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krzysztofnowakdata) [![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=flat&logo=github)](https://github.com/KrzysztofNowakJaw) [![Enterprise DNA](https://img.shields.io/badge/Enterprise%20DNA-bio-ff69b4?style=flat)](https://enterprisedna.co/experts)
