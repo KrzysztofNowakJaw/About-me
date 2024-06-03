@@ -100,8 +100,4 @@ A focus on community development
 
 ## Contact details
 
-[Linkedin profile](https://linkedin.com/in/krzysztofnowakdata)
-
-[My Github profile](https://github.com/KrzysztofNowakJaw)
-
-[Bio on Enterprise DNA experts site](https://enterprisedna.co/experts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krzysztofnowakdata) [![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=flat&logo=github)](https://github.com/KrzysztofNowakJaw) [![Enterprise DNA](https://img.shields.io/badge/Enterprise%20DNA-bio-ff69b4?style=flat)](https://enterprisedna.co/experts)
