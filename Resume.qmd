@@ -31,7 +31,8 @@ editor: visual
 
 January 2022--currently
 
--   Building automation solutions using the Alteryx platform - Evaluation of automation proposals
+-   Building automation solutions using the Alteryx platform 
+-   Evaluation of automation proposals
 
 -   Mentoring of novice developers
 
@@ -65,8 +66,8 @@ May 2023-June 2023
 
 April 2019-- October 2020
 
-Creating KPIs for investment funds\
-Responding to queries from investment funds using data obtained with SQL language
+- Creating KPIs for investment funds\
+- Responding to queries from investment funds using data obtained with SQL language
 
 Tools: SQL,VBA,MS Excel,MS Access
 
