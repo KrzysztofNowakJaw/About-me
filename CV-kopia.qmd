@@ -120,3 +120,7 @@ Responding to queries from investment funds using data obtained with SQL languag
 </details>
 
 
+Hi everyone. My name is Krzysztof Nowak, maybe some people remember me from the Quarto course. I deal with process automation on a daily basis, but I'm broadening my horizons and looking for more analytical challenges, hence my presence here. You can contact me through my profile https://www.linkedin.com/in/krzysztofnowakdata/ 
+Greetings
+
+
